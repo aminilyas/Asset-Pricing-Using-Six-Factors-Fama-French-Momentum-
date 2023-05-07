@@ -6,5 +6,12 @@ This analysis consists of the implementation of three linear models of the stock
 - Ridge regression
 - Lasso
 
-In this project we also practie our data curation skills.
+In this project we also apply our data curation skills.
 
+Team Member: Amin ILYAS, Nizar AQACHMAR, Pritam RITU RAJ, Zahi SAMAHA, Zengyi LI
+
+Course title: FInancial Data and Machine Learning
+
+Lecturer: Sebastian Lleo
+
+Institution: Neoma Business School
